@@ -10,6 +10,7 @@
 
 .tamanoTexto {
     font-size: 50px; 
+    font-weight:bolder; 
     text-align: center; 
 }
     
@@ -18,15 +19,35 @@
     display: inline-block;
     margin-top: 0;  
     margin-bottom: 0; 
-    font-size: 20px;
-    
-      
+    font-size: 50px;
 }
 
 hr {
     
-    width: 16.666%; 
+    width: 8.333%; 
     display: inline-block;
-    font-size: 23px; 
     border: 3px solid; 
+}
+
+h3 {
+    font-size: 25px; 
+    font-family: 'Lato', sans-serif;
+}
+
+
+#portfolio {
+    background-color: white; 
+    color: #2C3E50; 
+    height: 700px; 
+}
+
+
+#textoPortfolio {
+    font-size: 42px; 
+    font-weight: 900; 
+}
+
+.imagenPortafolio {
+    width: 100%; 
+    margin-left: 42px; 
 }
