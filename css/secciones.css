@@ -1,0 +1,32 @@
+#portada {
+    background-color: #18BC9C;
+    color: #fff;
+   height: 700px; 
+}
+
+#senorBigoton {
+  margin-top: 150px; 
+}
+
+.tamanoTexto {
+    font-size: 50px; 
+    text-align: center; 
+}
+    
+.estrella {
+    border-color: #fff;
+    display: inline-block;
+    margin-top: 0;  
+    margin-bottom: 0; 
+    font-size: 20px;
+    
+      
+}
+
+hr {
+    
+    width: 16.666%; 
+    display: inline-block;
+    font-size: 23px; 
+    border: 3px solid; 
+}
