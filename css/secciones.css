@@ -87,3 +87,18 @@ h3 {
     text-decoration: none;
     color: white; 
 }
+
+
+#contactMe{
+    height: 700px; 
+    background-color: white; 
+     color: #2C3E50; 
+    
+}
+
+#textoContactMe {
+    font-size: 42px; 
+    font-weight: 900; 
+    padding-top: 80px; 
+    
+}
